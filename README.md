@@ -1,17 +1,17 @@
 NextGen AI Assistant
 
-Overview
+Overview :
 This project is an AI-powered assistant designed to provide chat, search, and smart results in one place.
 
-Features
+Features :
 - AI chat
 - Web search
 - Product search
 - Basic integrations
 
-Technology
+Technology :
 - Node.js
 - Express
 
-Status
+Status :
 In development
